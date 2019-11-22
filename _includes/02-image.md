@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cute Girl](https://wallpaperaccess.com/full/10291.jpg)
